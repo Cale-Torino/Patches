@@ -1,0 +1,1 @@
+Paste xlive.dll in RE5 root dir look at https://github.com/Puh00/Resident-Evil-5-Trainer/issues/1 for more info
